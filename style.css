@@ -1,6 +1,23 @@
 .title{
     font-size: 30px;
     font-weight: bold;
-    color: #000;
     text-align: center;
+}
+
+.headtitle{
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    background: rgb(13, 13 ,13);
+}
+
+.text{
+    font-size: 15px;
+    text-align: left;
+    background: rgb(32, 32, 32);
+}
+
+body{
+    background-color: rgb(32, 32, 32);
+    color: rgb(255, 255, 255);
 }
