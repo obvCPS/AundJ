@@ -13,7 +13,7 @@
 
 .text{
     font-size: 20px;
-    text-align: left;
+    text-align: center;
     background: rgb(13, 13, 13);
 }
 
@@ -30,15 +30,14 @@ button{
     font-size: 25px;
 }
 
+button:hover{
+    background-color: rgb(63, 63, 63);
+}
 
-button+a{
-    border: none;
-    border-radius: 10px;
-    background-color: rgb(32, 32, 32);
-    color: rgb(255, 255, 255);
-    font-size: 25px;
+
+a{
     text-decoration: none;
-    font-weight: 100;
+    color: rgb(255, 255, 255);
 }
 
 sup{
